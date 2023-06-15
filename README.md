@@ -1,6 +1,12 @@
 ### ✨ПРИВЕТ ✨
 ## Меня зовут Дмитрий, я Frontend разработчик
 
+### Мой стек технологий
+
+![image](https://github.com/Dveyn/Dveyn/assets/45439179/ceb76c6a-4a5c-492c-8d6d-234bbcfc4af0)
+![image](https://github.com/Dveyn/Dveyn/assets/45439179/e079f810-0dfd-49b7-9f75-6f28aa84db20)
+![image](https://github.com/Dveyn/Dveyn/assets/45439179/be23fdf6-a026-4808-9616-64018f23c4d3)
+
 
 <!--
 **Dveyn/Dveyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

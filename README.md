@@ -1,4 +1,6 @@
-### Hi there 👋
+### ✨ПРИВЕТ ✨
+## Меня зовут Дмитрий, я Frontend разработчик
+
 
 <!--
 **Dveyn/Dveyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

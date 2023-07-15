@@ -2,10 +2,15 @@
 ## Меня зовут Дмитрий, я Frontend разработчик
 
 ### Мой стек технологий
-
-<img src="https://github.com/Dveyn/Dveyn/assets/45439179/c32bea77-0f68-45b6-abb5-3f628662c261" width="100">
-<img src="https://github.com/Dveyn/Dveyn/assets/45439179/a4e0ee35-1d89-4781-8c9f-7632ba7c607b" width="100">
-<img src="https://github.com/Dveyn/Dveyn/assets/45439179/e8a9c074-c921-46c9-82ea-0ebf723c1402" width="100">
+ - React
+ - TypeScript
+ - Webpack
+ - Vite
+ - JavaScript
+ - WebSocket
+ - Axios
+ - Sass
+ - CSS3
 
 
 

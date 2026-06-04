@@ -8,12 +8,6 @@
   <b>Frontend Developer · React · Next.js · TypeScript</b>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=850&lines=3%2B+года+коммерческого+опыта+во+Frontend;React+%2F+Next.js+%2F+TypeScript;SSR%2C+SPA%2C+API+integration%2C+WebSocket;Создаю+быстрые+и+удобные+web-приложения" alt="Typing SVG" />
-</p>
-
----
-
 ## Обо мне
 
 Я Frontend-разработчик с `3+ годами коммерческого опыта` в создании современных web-приложений.
@@ -86,7 +80,7 @@
 ## Контакты
 
 <p>
-  <a href="mailto:i@ananievds.ru>
+  <a href="mailto:i@ananievds.ru">
     <img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
   <a href="https://t.me/dveyn">
